@@ -14,6 +14,7 @@
     </v-app-bar>
 
     <v-main>
+      <!-- Barra Lateral -->
       <Sidevar/>
       <v-container fluid>
         <router-view />
